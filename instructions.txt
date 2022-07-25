@@ -6,6 +6,8 @@
 
 3.Declare variables
 
+7. Create git ignore file and push to github
+
 4. Connect to MongoDB - add connection string to .env file
 
 5. Add .env file to git ignore
@@ -15,8 +17,6 @@
 --Test MongoDB and Port connection
 
 6. Set middleware
-
-7. Create git ignore file
 
 8. Create Public and Views folders - add main.js and style.css to Public and index.ejs to Views
 
